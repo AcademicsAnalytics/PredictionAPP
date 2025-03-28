@@ -1,2 +1,2 @@
 # PredictionAPP
-Simple Application that uses machine learning and data too predict future housing prices.
+Simple Application that uses machine learning and data to predict future housing prices.
